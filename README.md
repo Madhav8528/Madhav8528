@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">🔥 Tech enthusiast, always curious and up for a challenge.<br>🚀 Building APIs that just work at scale.<br>🛠️ Getting fascinated by GoLang - loving its simplicity and power.<br>💡 Exploring tech and coding since 2023, always eager to learn</p>
+<p align="left">🔥 Tech enthusiast, always curious and up for a challenge.<br>🚀 Building APIs that just work at scale.<br>🛠️ Getting fascinated by GoLang - loving its simplicity and power.<br>💡 Exploring tech and coding since 2023, always eager to learn.</p>
 
 ###
 
